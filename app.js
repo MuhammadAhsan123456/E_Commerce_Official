@@ -243,6 +243,7 @@ async function submitContactForm(event) {
 window.submitContactForm = submitContactForm;
 
 
+
 // Export Functions to Window
 window.login = login;
 window.signup = signup;
